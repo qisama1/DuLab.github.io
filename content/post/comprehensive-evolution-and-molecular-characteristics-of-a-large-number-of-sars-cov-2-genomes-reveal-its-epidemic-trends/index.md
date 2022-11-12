@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   filename: 图片1.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
 ta test
