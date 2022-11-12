@@ -1,5 +1,5 @@
 ---
-title: Hogli Du
+title: Hongli Du
 role: Professor, doctoral supervisor, master's supervisor
 avatar_filename: avatar.jpg
 bio: "Research direction: genetics and bioinformatics, multi omics integration
