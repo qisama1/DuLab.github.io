@@ -1,0 +1,8 @@
+---
+title: WenQi Yu
+role: Grad Students
+avatar_filename: avatar.jpg
+bio: Grad Students
+social: []
+superuser: false
+---
