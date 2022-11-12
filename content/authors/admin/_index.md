@@ -1,46 +1,39 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Hogli Du
+role: Professor, doctoral supervisor, master's supervisor
+avatar_filename: avatar.jpg
+bio: "Research direction: genetics and bioinformatics, multi omics integration
+  technology, pan tumor molecular mechanism, tumor and infectious disease drug
+  research and development"
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - genetics and bioinformatics
+  - multi omics integration technology
+  - pan tumor molecular mechanism
+  - tumor and infectious disease drug research and development
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: hldu@scut.edu.cn
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: http://www2.scut.edu.cn/biology/2019/0121/c15457a304169/page.htm
 organizations:
-  - name: Stanford University
+  - name: South China University of Technology
     url: ""
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+  courses: []
+email: hldu@scut.edu.cn
 superuser: true
 user_groups:
   - Professor
 highlight_name: false
 ---
+Scientific research:
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+(1) Development and application of big data analysis technology based on artificial intelligence;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+(2) Tumor and infectious disease mechanism discovery and treatment target identification based on big data of tissue, single cell, spatiotemporal multiomics and system life regulation;
+
+(3) High throughput small molecule drug screening based on deep learning;
+
+(4) Development and application of methods and tools for early cancer diagnosis and precise drug diagnosis based on omics.
