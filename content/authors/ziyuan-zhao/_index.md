@@ -1,7 +1,7 @@
 ---
 title: Ziyuan Zhao
 role: Grad Students
-avatar_filename: 赵自媛.jpg
+avatar_filename: avatar.jpg
 bio: Grad Students
 social: []
 superuser: false
