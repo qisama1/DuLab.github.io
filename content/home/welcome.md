@@ -1,9 +1,9 @@
 ---
 widget: hero
-widget_id: DuLab
+widget_id: About us
 headless: true
 weight: 10
-title: DuLab
+title: About us
 hero_media: welcome.jpg
 design:
   columns: "1"
