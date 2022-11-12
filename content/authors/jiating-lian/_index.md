@@ -1,5 +1,5 @@
 ---
-title: Jiating lian
+title: Jiating Lian
 role: Grad Students
 avatar_filename: avatar.jpg
 bio: Grad Students
