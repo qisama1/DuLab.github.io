@@ -1,7 +1,7 @@
 ---
 title: Dawei Jiang
 role: Doctor
-avatar_filename: 姜大伟.jpg
+avatar_filename: avatar.jpg
 bio: Doctor
 social: []
 superuser: false
