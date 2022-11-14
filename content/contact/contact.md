@@ -26,7 +26,7 @@ content:
     country_code: CHN
   coordinates:
     latitude: '23.03123'
-    longitude: '113.24392'
+    longitude: '113.4098861'
   directions: B6
   office_hours:
     - 'Monday 10:00 to 13:00'
