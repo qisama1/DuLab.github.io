@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: hldu@scut.edu.cn
+    link: mailto:test@example.org
   - icon: google-scholar
     icon_pack: ai
     link: http://www2.scut.edu.cn/biology/2019/0121/c15457a304169/page.htm
